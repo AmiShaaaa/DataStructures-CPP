@@ -1,0 +1,1 @@
+{"name":"Local: longestArithmeticSubArray","url":"c:\\Users\\amish\\Desktop\\DSA\\Day 4\\longestArithmeticSubArray.cpp","tests":[{"id":1645937532715,"input":"7\n10 7 4 6 8 10 11","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\amish\\Desktop\\DSA\\Day 4\\longestArithmeticSubArray.cpp","group":"local","local":true}
