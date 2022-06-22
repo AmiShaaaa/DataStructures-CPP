@@ -1,0 +1,1 @@
+{"name":"Local: recordBreaker","url":"c:\\Users\\amish\\Desktop\\DSA\\Day 5\\recordBreaker.cpp","tests":[{"id":1645942330454,"input":"8\n1 2 0 7 2 0 2 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\amish\\Desktop\\DSA\\Day 5\\recordBreaker.cpp","group":"local","local":true}
