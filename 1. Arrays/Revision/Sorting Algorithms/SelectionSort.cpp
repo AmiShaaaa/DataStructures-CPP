@@ -1,3 +1,8 @@
+// 5 3 9 6 --> 3 5 9 6 
+// 3 5 9 6 --> 3 5 9 6
+// 3 5 9 6 --> 3 5 6 9
+// 3 5 6 9 --> 3 5 6 9
+
 #include <iostream>
 #include <vector>
 using namespace std;
